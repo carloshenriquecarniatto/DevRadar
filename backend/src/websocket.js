@@ -13,7 +13,7 @@ exports.setupwebSocket = (server) =>{
             id: socket.id,
             coordinates:{
                 latitude: Number(latitude),
-                longitude: Number(longitude) ,
+                longitude: Number(longitude),
             },
             techs:parseStringAsArray(techs)
         });
