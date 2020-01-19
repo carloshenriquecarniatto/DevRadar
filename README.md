@@ -32,7 +32,7 @@ https://github.com/carloshenriquecarniatto
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/seunome/seuprojeto/wiki
 
-English Version
+## English Version
 
 # DevRadar
 > DevRadar is a simple and practical solution to register and search for Software developers on the technologies you know or are interested in knowing.
