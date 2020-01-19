@@ -1,10 +1,5 @@
 # DevRadar
 > O DevRadar ele é uma solução simples e prática para cadastrar e procurar desenvolvedores de Softwares nas tecnologias que você conheçe ou esteja interessado em conhecer.
-
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
 Esse Software consiste em um site em React.Js ao qual as pessoas podem fazer seus cadastros utilizando seu usuário do github e um aplicação React Native ao qual baseado na geolocalização ele mostra os desenvolvedores de softwares cadastrados na ferramenta, baseado nas tecnologias que os mesmo tem no seu cadastro, promovendo assim a interação dentre as pessoas e adicionando ainda mais conhecimento.
 
 ## Configuração para Desenvolvimento
